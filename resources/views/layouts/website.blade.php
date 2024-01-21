@@ -179,7 +179,7 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"></script>
     <script src="{{asset('asset/plugins/google-map/map.js')}}"></script>
 
-    <script src="js/script.js"></script>
+    <script src="asset/js/script.js"></script>
 
     </body>
 
